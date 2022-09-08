@@ -15,7 +15,7 @@ int main()
 	else{
 	  printf("Multiplicative inverse doesn't exist.\n");
 	  printf("The additive inverse of %d mod %d is :%d\n",n,mod,mod-n);
-	}printf("The additive inverse of %d mod %d is :%d\n",n,mod,mod-n);
+	}
 }
 int gcd(int a, int b)
 {
